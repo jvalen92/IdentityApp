@@ -1,0 +1,12 @@
+C:\Users\jvalenciaa\Documents\API REST\AspNetIdentityDemo\AspNetIdentityDemo.Shared\bin\Debug\netstandard2.0\AspNetIdentityDemo.Shared.deps.json
+C:\Users\jvalenciaa\Documents\API REST\AspNetIdentityDemo\AspNetIdentityDemo.Shared\bin\Debug\netstandard2.0\AspNetIdentityDemo.Shared.dll
+C:\Users\jvalenciaa\Documents\API REST\AspNetIdentityDemo\AspNetIdentityDemo.Shared\bin\Debug\netstandard2.0\AspNetIdentityDemo.Shared.pdb
+C:\Users\jvalenciaa\Documents\API REST\AspNetIdentityDemo\AspNetIdentityDemo.Shared\obj\Debug\netstandard2.0\AspNetIdentityDemo.Shared.csprojAssemblyReference.cache
+C:\Users\jvalenciaa\Documents\API REST\AspNetIdentityDemo\AspNetIdentityDemo.Shared\obj\Debug\netstandard2.0\AspNetIdentityDemo.Shared.AssemblyInfoInputs.cache
+C:\Users\jvalenciaa\Documents\API REST\AspNetIdentityDemo\AspNetIdentityDemo.Shared\obj\Debug\netstandard2.0\AspNetIdentityDemo.Shared.AssemblyInfo.cs
+C:\Users\jvalenciaa\Documents\API REST\AspNetIdentityDemo\AspNetIdentityDemo.Shared\obj\Debug\netstandard2.0\AspNetIdentityDemo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jvalenciaa\Documents\API REST\AspNetIdentityDemo\AspNetIdentityDemo.Shared\obj\Debug\netstandard2.0\AspNetIdentityDemo.Shared.dll
+C:\Users\jvalenciaa\Documents\API REST\AspNetIdentityDemo\AspNetIdentityDemo.Shared\obj\Debug\netstandard2.0\AspNetIdentityDemo.Shared.pdb
+C:\Users\jvalenciaa\Documents\API REST\AspNetIdentityDemo\AspNetIdentityDemo.Shared\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\jvalenciaa\Documents\API REST\AspNetIdentityDemo\AspNetIdentityDemo.Shared\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\jvalenciaa\Documents\API REST\AspNetIdentityDemo\AspNetIdentityDemo.Shared\obj\Debug\netstandard2.0\AspNetIdentityDemo.Shared.csproj.CopyComplete
